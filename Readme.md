@@ -5,3 +5,6 @@
 # Yêu cầu phần mềm:
 <br> Visual Studio 
 <br> Microsoft SQL Server Express
+# Yêu cầu cơ sở dữ liệu:
+<br> Bước 1: Tạo database có tên QuanLyQuanCafe
+<br> Bước 2: Chạy file data.sql trong thư mục Data
